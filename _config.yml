@@ -2,9 +2,9 @@ url: https://ryanwu4.github.io
 baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Ryan Wu's Portfolio
+email: rhw2125@columbia.edu
+description: "The engineering portfolio of Ryan Wu"
 
 
 # Team names, titles and social links
@@ -44,16 +44,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: https://www.linkedin.com/in/ryan-wu40/
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/ryan.wu.7712826/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/ryanwu4
 
 # Postal address (add as many lines as necessary)
 address:
