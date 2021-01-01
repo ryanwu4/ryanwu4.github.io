@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: '"Oswald","Helvetica Neue",Helvetica,Arial, sans-serif'
-  secondary: '"Montserrat","Helvetica Neue",Helvetica,Arial, sans-serif'
+  primary: '"Roboto", sans-serif'
+  secondary: '"Montserrat", sans-serif'
