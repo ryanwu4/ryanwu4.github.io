@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 70-31 108th St, Apt 2D
+  - line: Forest Hills, NY, 11375
 
 # Build settings
 markdown: kramdown
