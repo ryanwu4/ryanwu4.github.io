@@ -1,0 +1,15 @@
+---
+title: Formula Engine Optimization
+subtitle: Data Analysis
+layout: default
+modal-id: 3
+date: 2020-12-01
+img: fsae.png
+thumbnail: fsae-thumbnail.png
+alt: image-alt
+project-date: September 2020-Present
+organization: Columbia Formula Racing
+role: Team Member
+description: Using R, I analyzed data from Ricardo WAVE simulations of the Columbia Formula Racing engine to optimize power and torque curves for maximum track performance. I also used Mathematica to maximize acoustic suppression for the Helmholtz resonator on the exhaust of the engine, ensuring manufacturability and modularity.
+link: "https://fsae.engineering.columbia.edu/"
+---

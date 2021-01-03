@@ -1,0 +1,15 @@
+---
+title: Robotic Manipulator
+subtitle: Mechanical Engineering
+layout: default
+modal-id: 4
+date: 2020-11-30
+img: manipulator.png
+thumbnail: manipulator-thumbnail.png
+alt: image-alt
+project-date: September 2020-Present
+organization: Columbia Robotics Club
+role: Team Member
+description: I researched and designed manipulator arms for an ROV submersible using SolidWorks to optimize grasp stability and minimize actuator size and complexity.
+link: "https://drive.google.com/file/d/1KzztMtRqAko__MqPWYj0wnzkOQmgv1I2/view?usp=sharing"
+---

@@ -1,15 +1,15 @@
 ---
-title: Enceladus Lander Design
-subtitle: Deputy Project Manager
+title: Enceladus Lander
+subtitle: Systems Engineering
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2020-12-15
 img: enceladus.png
 thumbnail: enceladus-thumbnail.png
 alt: image-alt
 project-date: September-December 2020
 organization: NASA L'Space Mission Concept Academy
-skills: Team Organization, Systems Engineering
+role: Deputy Project Manager
 description: As part of a team of 11 students, I designed Entry, Descent and Landing as well as Guidance and Navigation for a hypothetical $400M Enceladus lander mission using Siemens NX and contributed to the preliminary design review. As deputy project manager, I also facilitated role division and ensured team participation in the project for on-time deliverables. In workshops for the Mission Concept Academy, we also learned about the NASA mission planning process and engineering design principles.
 link: "https://drive.google.com/file/d/1R_16wURCz87oUGzdTWlE4Q13dCk8vLn4/view?usp=sharing"
 ---
