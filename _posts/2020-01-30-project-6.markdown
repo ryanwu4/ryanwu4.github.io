@@ -1,0 +1,15 @@
+---
+title: Forest Ecology Research
+subtitle: Remote Sensing, Data Analysis
+layout: default
+modal-id: 6
+date: 2020-01-30
+img: lai.png
+thumbnail: lai-thumbnail.png
+alt: image-alt
+project-date: June 2018-August 2019
+organization: CUNY Advanced Science Research Center
+role: Research Intern
+description: Coordinating with a team of 4 researchers, I implemented an independent project which leveraged machine learning-based satellite remote sensing data acquisition and reduction using R and ArcGIS to determine how drought and heat stress affects forest health. For my research, I was named a Regeneron Science Talent Search Scholar and the work will be included in an upcoming publication.
+link: "https://drive.google.com/file/d/1Qq-VMJV_sh_THxJz91LLD-pAKes1R35w/view?usp=sharing"
+---

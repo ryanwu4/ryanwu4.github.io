@@ -1,0 +1,15 @@
+---
+title: COVID Face Shields
+subtitle: Logistics, Project Management
+layout: default
+modal-id: 5
+date: 2020-06-30
+img: faceshield.png
+thumbnail: faceshield-thumbnail.jpeg
+alt: image-alt
+project-date: March-September 2020
+organization: Helpful Engineering
+role: Global Logistics Manager
+description: I managed a global team of 30+ volunteers to coordinate delivery of over 2000 pounds of plastic feedstock and 100k+ face shields between manufacturers, makerspaces, and hospitals within the NYC area and in Liberia, India, and Europe, providing critical PPE to frontline workers during the COVID-19 pandemic. To organize the effort, I processed data using R from 5000 makerspaces and independent volunteers to create a database of available fabrication tools for rapid mobilization of distributed PPE production.
+link: "https://helpfulengineering.org/projects-news/project-spotlight-manufacturer-database/"
+---

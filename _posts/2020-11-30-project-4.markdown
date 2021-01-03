@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2020-11-30
 img: manipulator.png
-thumbnail: manipulator-thumbnail.png
+thumbnail: manipulator-thumbnail.jpg
 alt: image-alt
 project-date: September 2020-Present
 organization: Columbia Robotics Club
