@@ -4,12 +4,12 @@ subtitle: Aerospace Engineering, CFD
 layout: default
 modal-id: 1
 date: 2020-12-31
-img: injector.png
+img: injector.jpg
 thumbnail: injector-thumbnail.png
 alt: image-alt
 project-date: September 2020-Present
 organization: Columbia Space Initiative
 role: Project Lead
-description: In coordination with the 6-member rocketry team, I analyzed and optimized the fuel injector design for a hybrid sounding rocket motor using SolidWorks and ANSYS Fluent to minimize weight and improve combustion efficiency.
+description: In coordination with the 6-member rocketry team, I analyzed, manufactured, and tested the fuel injector design for a hybrid sounding rocket motor using SolidWorks and ANSYS Fluent to minimize weight and improve combustion efficiency.
 link: "https://drive.google.com/file/d/1WoKWts_2dW8-6DtBqIoMuu8HWqGmaFrk/view?usp=sharing"
 ---
